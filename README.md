@@ -1,4 +1,5 @@
 🚗 Car Sales Performance Dashboard
+
 📊 Project Overview
 This project delivers an end-to-end data analysis and visualization solution for car sales performance using Power BI, SQL, and Excel. The dashboard provides actionable insights into sales trends, pricing behavior, and regional performance, enabling data-driven decision-making.
 The solution focuses on YTD, MTD, and YoY analysis, helping stakeholders monitor growth, identify high-performing segments, and optimize sales strategies.
